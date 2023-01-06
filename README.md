@@ -1,2 +1,2 @@
-# Credit-card-fraud-detection
-comparison study of tab transformer and ft transformer for credit card fraud detection
+# credit-card-fraud-detection
+Tab Transformer based model for credit card fraud detection
